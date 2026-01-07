@@ -12,3 +12,10 @@ struct studentdata{
     char phone[20];
     char email[50];
 };
+struct CourseInfo
+{
+    char StudentID[10];
+    char Code[10];
+    char Name[20];
+};
+
