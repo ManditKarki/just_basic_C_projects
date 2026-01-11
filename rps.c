@@ -6,7 +6,7 @@ int main(){
 int player1;
 int ai_1;
 srand(time(NULL));
-ai_1 =(rand()%3)+2;
+ai=(rand()%3)+2;
 
 
 
