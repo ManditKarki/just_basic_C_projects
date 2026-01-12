@@ -4,7 +4,7 @@
 #include<stdbool.h>
 int main(){
 int player1;
-int ai_1;
+int ai;
 srand(time(NULL));
 ai=(rand()%3)+2;
 
