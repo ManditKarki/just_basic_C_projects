@@ -3,7 +3,7 @@
 #include<time.h>
 #include<stdbool.h>
 int main(){
-int player1;
+int player;
 int ai;
 srand(time(NULL));
 ai=(rand()%3)+2;
